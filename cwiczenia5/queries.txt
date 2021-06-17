@@ -1,0 +1,46 @@
+1.
+MATCH (movie:Movie) RETURN movie
+
+2.
+MATCH (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(hugoWeawingMovies) RETURN hugo, hugoWeawingMovies
+
+3.
+MATCH ({name: "Hugo Weaving"})-[:ACTED_IN]->(hugoWeavingMovies)<-[:DIRECTED]-(directors) RETURN distinct directors
+
+4.
+MATCH ({name: "Hugo Weaving"})-[:ACTED_IN]->(hugoWeavingMovies)<-[:ACTED_IN]-(actors) RETURN distinct actors
+
+5.
+MATCH (matrix:Movie {title: "The Matrix"})<-[:ACTED_IN]-(actor)-[:ACTED_IN]->(movie:Movie) RETURN movie, actor
+
+6.
+MATCH (person:Person)-[:ACTED_IN]->(movie:Movie) RETURN person, count(*)
+
+7.
+MATCH (person:Person)-[:WROTE]->(movie:Movie) WHERE (person)-[:DIRECTED]->(movie) RETURN person, movie
+
+8.
+MATCH (hugo:Person {name:"Hugo Weaving"})-[:ACTED_IN]->(movie:Movie)<-[:ACTED_IN]-(keanu:Person {name:"Keanu Reeves"}) RETURN hugo, keanu, movie
+
+9.
+CREATE (CaptainAmerica:Movie {title:'Captain America: The First Avenger', released:2011, tagline:'The first Avenger'})
+CREATE (JoeJohnston:Person {name:'Joe Johnston', born:1950}) //director
+CREATE (ChrisEvans:Person {name:'Chris Evans', born:1981})
+CREATE (HayleyAtwell:Person {name:'Hayley Atwell', born:1982})
+CREATE (SebastianStan:Person {name:'Sebastian Stan', born:1982})
+CREATE (TommyLeeJones:Person {name:'Tommy Lee Jones', born:1946})
+CREATE (HugoWeaving:Person {name:'Hugo Weaving', born: 1960})
+CREATE (ChristopherMarkus:Person {name:'Christopher Markus', born:1973})
+CREATE (StephenMcFeely:Person {name:'Stephen McFeely', born:1973})
+
+CREATE
+  (JoeJohnston)-[:DIRECTED]->(CaptainAmerica),
+  (ChrisEvans)-[:ACTED_IN {roles:['Captain America/Steve Rogers']}]->(CaptainAmerica),
+  (HayleyAtwell)-[:ACTED_IN {roles:['Peggy Carter']}]->(CaptainAmerica),
+  (SebastianStan)-[:ACTED_IN {roles:['James Buchanan Bucky Barnes']}]->(CaptainAmerica),
+  (TommyLeeJones)-[:ACTED_IN {roles:['Colonel Chester Phillips']}]->(CaptainAmerica),
+  (HugoWeaving)-[:ACTED_IN {roles:['Johann Schmidt / Red Skull']}]->(CaptainAmerica),
+  (ChristopherMarkus)-[:WROTE]->(CaptainAmerica),
+  (StephenMcFeely)-[:WROTE]->(CaptainAmerica)
+
+MATCH (m:Movie {title: 'Captain America: The First Avenger'})-[r]-(a) RETURN *

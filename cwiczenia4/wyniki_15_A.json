@@ -1,0 +1,365 @@
+{ 
+    "_id" : "AFN", 
+    "balanceSum" : 16754.0, 
+    "average" : 5584.666666666667
+}
+{ 
+    "_id" : "ALL", 
+    "balanceSum" : 3325.0, 
+    "average" : 3325.0
+}
+{ 
+    "_id" : "AMD", 
+    "balanceSum" : 24607.0, 
+    "average" : 4921.4
+}
+{ 
+    "_id" : "ARS", 
+    "balanceSum" : 23239.0, 
+    "average" : 4647.8
+}
+{ 
+    "_id" : "BGN", 
+    "balanceSum" : 21200.0, 
+    "average" : 5300.0
+}
+{ 
+    "_id" : "BOB", 
+    "balanceSum" : 5263.0, 
+    "average" : 5263.0
+}
+{ 
+    "_id" : "BRL", 
+    "balanceSum" : 49627.0, 
+    "average" : 4511.545454545455
+}
+{ 
+    "_id" : "BWP", 
+    "balanceSum" : 4076.0, 
+    "average" : 4076.0
+}
+{ 
+    "_id" : "BYR", 
+    "balanceSum" : 5095.0, 
+    "average" : 5095.0
+}
+{ 
+    "_id" : "CAD", 
+    "balanceSum" : 58371.0, 
+    "average" : 5306.454545454545
+}
+{ 
+    "_id" : "CDF", 
+    "balanceSum" : 12228.0, 
+    "average" : 6114.0
+}
+{ 
+    "_id" : "CLP", 
+    "balanceSum" : 21007.0, 
+    "average" : 5251.75
+}
+{ 
+    "_id" : "CNY", 
+    "balanceSum" : 470650.0, 
+    "average" : 4954.210526315789
+}
+{ 
+    "_id" : "COP", 
+    "balanceSum" : 19745.0, 
+    "average" : 4936.25
+}
+{ 
+    "_id" : "CUP", 
+    "balanceSum" : 15016.0, 
+    "average" : 5005.333333333333
+}
+{ 
+    "_id" : "CZK", 
+    "balanceSum" : 37152.0, 
+    "average" : 4644.0
+}
+{ 
+    "_id" : "DOP", 
+    "balanceSum" : 20672.0, 
+    "average" : 5168.0
+}
+{ 
+    "_id" : "EGP", 
+    "balanceSum" : 5579.0, 
+    "average" : 5579.0
+}
+{ 
+    "_id" : "ETB", 
+    "balanceSum" : 5436.0, 
+    "average" : 5436.0
+}
+{ 
+    "_id" : "EUR", 
+    "balanceSum" : 245069.0, 
+    "average" : 4901.38
+}
+{ 
+    "_id" : "GBP", 
+    "balanceSum" : 6149.0, 
+    "average" : 6149.0
+}
+{ 
+    "_id" : "GTQ", 
+    "balanceSum" : 5806.0, 
+    "average" : 5806.0
+}
+{ 
+    "_id" : "HNL", 
+    "balanceSum" : 16513.0, 
+    "average" : 5504.333333333333
+}
+{ 
+    "_id" : "HRK", 
+    "balanceSum" : 24352.0, 
+    "average" : 4870.4
+}
+{ 
+    "_id" : "IDR", 
+    "balanceSum" : 323888.0, 
+    "average" : 4907.393939393939
+}
+{ 
+    "_id" : "ILS", 
+    "balanceSum" : 16295.0, 
+    "average" : 5431.666666666667
+}
+{ 
+    "_id" : "IQD", 
+    "balanceSum" : 4269.0, 
+    "average" : 4269.0
+}
+{ 
+    "_id" : "IRR", 
+    "balanceSum" : 26502.0, 
+    "average" : 4417.0
+}
+{ 
+    "_id" : "ISK", 
+    "balanceSum" : 4316.0, 
+    "average" : 4316.0
+}
+{ 
+    "_id" : "JPY", 
+    "balanceSum" : 60940.0, 
+    "average" : 5078.333333333333
+}
+{ 
+    "_id" : "KRW", 
+    "balanceSum" : 13378.0, 
+    "average" : 6689.0
+}
+{ 
+    "_id" : "KYD", 
+    "balanceSum" : 3760.0, 
+    "average" : 3760.0
+}
+{ 
+    "_id" : "KZT", 
+    "balanceSum" : 3788.0, 
+    "average" : 3788.0
+}
+{ 
+    "_id" : "LYD", 
+    "balanceSum" : 8764.0, 
+    "average" : 4382.0
+}
+{ 
+    "_id" : "MAD", 
+    "balanceSum" : 3818.0, 
+    "average" : 3818.0
+}
+{ 
+    "_id" : "MGA", 
+    "balanceSum" : 14559.0, 
+    "average" : 4853.0
+}
+{ 
+    "_id" : "MKD", 
+    "balanceSum" : 3835.0, 
+    "average" : 3835.0
+}
+{ 
+    "_id" : "MMK", 
+    "balanceSum" : 4629.0, 
+    "average" : 4629.0
+}
+{ 
+    "_id" : "MNT", 
+    "balanceSum" : 21713.0, 
+    "average" : 5428.25
+}
+{ 
+    "_id" : "MWK", 
+    "balanceSum" : 3574.0, 
+    "average" : 3574.0
+}
+{ 
+    "_id" : "MXN", 
+    "balanceSum" : 50224.0, 
+    "average" : 5022.4
+}
+{ 
+    "_id" : "MYR", 
+    "balanceSum" : 4781.0, 
+    "average" : 4781.0
+}
+{ 
+    "_id" : "NGN", 
+    "balanceSum" : 24944.0, 
+    "average" : 4157.333333333333
+}
+{ 
+    "_id" : "NIO", 
+    "balanceSum" : 9971.0, 
+    "average" : 4985.5
+}
+{ 
+    "_id" : "NOK", 
+    "balanceSum" : 4773.0, 
+    "average" : 4773.0
+}
+{ 
+    "_id" : "NPR", 
+    "balanceSum" : 5792.0, 
+    "average" : 5792.0
+}
+{ 
+    "_id" : "NZD", 
+    "balanceSum" : 5328.0, 
+    "average" : 5328.0
+}
+{ 
+    "_id" : "PEN", 
+    "balanceSum" : 18643.0, 
+    "average" : 4660.75
+}
+{ 
+    "_id" : "PHP", 
+    "balanceSum" : 118594.0, 
+    "average" : 4941.416666666667
+}
+{ 
+    "_id" : "PKR", 
+    "balanceSum" : 18936.0, 
+    "average" : 4734.0
+}
+{ 
+    "_id" : "PLN", 
+    "balanceSum" : 90761.0, 
+    "average" : 5042.277777777777
+}
+{ 
+    "_id" : "PYG", 
+    "balanceSum" : 4874.0, 
+    "average" : 4874.0
+}
+{ 
+    "_id" : "RSD", 
+    "balanceSum" : 4276.0, 
+    "average" : 4276.0
+}
+{ 
+    "_id" : "RUB", 
+    "balanceSum" : 119736.0, 
+    "average" : 4989.0
+}
+{ 
+    "_id" : "RWF", 
+    "balanceSum" : 4632.0, 
+    "average" : 4632.0
+}
+{ 
+    "_id" : "SEK", 
+    "balanceSum" : 70832.0, 
+    "average" : 5059.428571428572
+}
+{ 
+    "_id" : "SRD", 
+    "balanceSum" : 5286.0, 
+    "average" : 5286.0
+}
+{ 
+    "_id" : "THB", 
+    "balanceSum" : 23020.0, 
+    "average" : 4604.0
+}
+{ 
+    "_id" : "TJS", 
+    "balanceSum" : 4087.0, 
+    "average" : 4087.0
+}
+{ 
+    "_id" : "TZS", 
+    "balanceSum" : 7052.0, 
+    "average" : 3526.0
+}
+{ 
+    "_id" : "UAH", 
+    "balanceSum" : 40468.0, 
+    "average" : 5058.5
+}
+{ 
+    "_id" : "USD", 
+    "balanceSum" : 74674.0, 
+    "average" : 4978.266666666666
+}
+{ 
+    "_id" : "UZS", 
+    "balanceSum" : 3573.0, 
+    "average" : 3573.0
+}
+{ 
+    "_id" : "VEF", 
+    "balanceSum" : 8333.0, 
+    "average" : 4166.5
+}
+{ 
+    "_id" : "VND", 
+    "balanceSum" : 36156.0, 
+    "average" : 4519.5
+}
+{ 
+    "_id" : "VUV", 
+    "balanceSum" : 6418.0, 
+    "average" : 6418.0
+}
+{ 
+    "_id" : "XAF", 
+    "balanceSum" : 14094.0, 
+    "average" : 4698.0
+}
+{ 
+    "_id" : "XOF", 
+    "balanceSum" : 17880.0, 
+    "average" : 5960.0
+}
+{ 
+    "_id" : "XPF", 
+    "balanceSum" : 4759.0, 
+    "average" : 4759.0
+}
+{ 
+    "_id" : "YER", 
+    "balanceSum" : 13711.0, 
+    "average" : 4570.333333333333
+}
+{ 
+    "_id" : "ZAR", 
+    "balanceSum" : 11789.0, 
+    "average" : 3929.6666666666665
+}
+{ 
+    "_id" : "ZMW", 
+    "balanceSum" : 5569.0, 
+    "average" : 5569.0
+}
+{ 
+    "_id" : "ZWL", 
+    "balanceSum" : 5792.0, 
+    "average" : 5792.0
+}

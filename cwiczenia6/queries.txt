@@ -1,0 +1,38 @@
+CZĘŚĆ 1
+
+1.
+MATCH (t:town { name: 'Darjeeling' }),(p:peak { name: 'Sandakphu' }), paths = allShortestPaths((t)-[*]-(p))
+RETURN paths
+
+2. 
+MATCH (t:town { name: 'Darjeeling' }),(p:peak { name: 'Sandakphu' }), paths = allShortestPaths((t)-[r*]-(p))
+WHERE ALL (r in relationships(paths) WHERE r.winter = "true")
+RETURN paths
+
+3.
+MATCH path=(t:town {name:"Darjeeling"})-[r*]->(p:peak {name: "Sandakphu"})
+RETURN  path AS TRACE, 
+        reduce(distance=0, r in relationships(path)| distance+r.distance) AS 
+totalDistance
+ORDER BY totalDistance ASC
+
+CZĘŚĆ 2
+
+4.
+MATCH (airport:Airport)-[:ORIGIN]-(flight:Flight) return airport, count(*) as NumberOfFlights ORDER BY NumberOfFlights
+
+5.
+// stworzenie relacji wskazującej istnienie połączenia pomiędzy dwoma miastami
+MATCH (originAirport:Airport)<-[:ORIGIN]-(flight:Flight)-[:DESTINATION]->(destAirport:Airport), (flight)<-[:ASSIGN]-(ticket:Ticket)
+CREATE (originAirport)-[:CITY_CONNECTION {airline: flight.airline, dateOfFlight: flight.date, distance: flight.distance, duration: flight.duration, name: flight.name, price: ticket.price, class:ticket.class}]->(destAirport)
+
+MATCH (airport:Airport {name: "LAX"})-[connection:CITY_CONNECTION*..2]-> (destinationAirport:Airport)
+WHERE REDUCE(totalCost = 0, con in connection | totalCost + con.price) < 3000 AND destinationAirport.name <> "LAX" return distinct destinationAirport;
+
+6.
+MATCH path = (airport:Airport {name: "PDX"})-[connection:CITY_CONNECTION*..2]->(destinationAirport:Airport {name: "ORD"})
+WITH path, REDUCE(totalCost = 0, con in connection | totalCost + con.price) as totalPrice
+RETURN path, totalPrice;
+
+7.
+MATCH path = (originAirport:Airport {name: "PDX"})-[cheapest:CHEAPEST_CONNECTION*..2]->(finalAirport:Airport {name: "ORD"}) RETURN path;

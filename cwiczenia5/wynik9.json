@@ -1,0 +1,268 @@
+﻿[
+  {
+    "a": {
+"identity": 361,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hayley Atwell",
+"born": 1982
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 513,
+"start": 361,
+"end": 358,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Peggy Carter"
+        ]
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 364,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 516,
+"start": 364,
+"end": 358,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt / Red Skull"
+        ]
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 362,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sebastian Stan",
+"born": 1982
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 514,
+"start": 362,
+"end": 358,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "James Buchanan Bucky Barnes"
+        ]
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 366,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen McFeely",
+"born": 1973
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 518,
+"start": 366,
+"end": 358,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 363,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tommy Lee Jones",
+"born": 1946
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 515,
+"start": 363,
+"end": 358,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Colonel Chester Phillips"
+        ]
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 365,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Markus",
+"born": 1973
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 517,
+"start": 365,
+"end": 358,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 359,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston",
+"born": 1950
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 511,
+"start": 359,
+"end": 358,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 360,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Chris Evans",
+"born": 1981
+      }
+    },
+    "m": {
+"identity": 358,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The first Avenger",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "r": {
+"identity": 512,
+"start": 360,
+"end": 358,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Captain America/Steve Rogers"
+        ]
+      }
+    }
+  }
+]

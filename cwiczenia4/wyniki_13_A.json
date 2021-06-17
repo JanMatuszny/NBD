@@ -1,0 +1,784 @@
+{ 
+    "_id" : "Account Coordinator", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Account Executive", 
+    "uniqueCount" : 74.0
+}
+{ 
+    "_id" : "Account Representative I", 
+    "uniqueCount" : 27.0
+}
+{ 
+    "_id" : "Account Representative II", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Account Representative III", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Account Representative IV", 
+    "uniqueCount" : 28.0
+}
+{ 
+    "_id" : "Accountant I", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Accountant II", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Accountant III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Accountant IV", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Accounting Assistant I", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Accounting Assistant II", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Accounting Assistant III", 
+    "uniqueCount" : 15.0
+}
+{ 
+    "_id" : "Accounting Assistant IV", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Actuary", 
+    "uniqueCount" : 89.0
+}
+{ 
+    "_id" : "Administrative Assistant I", 
+    "uniqueCount" : 14.0
+}
+{ 
+    "_id" : "Administrative Assistant II", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Administrative Assistant III", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Administrative Assistant IV", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Administrative Officer", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Analog Circuit Design manager", 
+    "uniqueCount" : 79.0
+}
+{ 
+    "_id" : "Analyst Programmer", 
+    "uniqueCount" : 88.0
+}
+{ 
+    "_id" : "Assistant Manager", 
+    "uniqueCount" : 76.0
+}
+{ 
+    "_id" : "Assistant Media Planner", 
+    "uniqueCount" : 82.0
+}
+{ 
+    "_id" : "Assistant Professor", 
+    "uniqueCount" : 77.0
+}
+{ 
+    "_id" : "Associate Professor", 
+    "uniqueCount" : 65.0
+}
+{ 
+    "_id" : "Automation Specialist I", 
+    "uniqueCount" : 28.0
+}
+{ 
+    "_id" : "Automation Specialist II", 
+    "uniqueCount" : 17.0
+}
+{ 
+    "_id" : "Automation Specialist III", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Automation Specialist IV", 
+    "uniqueCount" : 27.0
+}
+{ 
+    "_id" : "Biostatistician I", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Biostatistician II", 
+    "uniqueCount" : 16.0
+}
+{ 
+    "_id" : "Biostatistician III", 
+    "uniqueCount" : 26.0
+}
+{ 
+    "_id" : "Biostatistician IV", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Budget/Accounting Analyst I", 
+    "uniqueCount" : 14.0
+}
+{ 
+    "_id" : "Budget/Accounting Analyst II", 
+    "uniqueCount" : 35.0
+}
+{ 
+    "_id" : "Budget/Accounting Analyst III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Budget/Accounting Analyst IV", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Business Systems Development Analyst", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Chemical Engineer", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Chief Design Engineer", 
+    "uniqueCount" : 94.0
+}
+{ 
+    "_id" : "Civil Engineer", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Clinical Specialist", 
+    "uniqueCount" : 74.0
+}
+{ 
+    "_id" : "Community Outreach Specialist", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Compensation Analyst", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Computer Systems Analyst I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Computer Systems Analyst II", 
+    "uniqueCount" : 32.0
+}
+{ 
+    "_id" : "Computer Systems Analyst III", 
+    "uniqueCount" : 14.0
+}
+{ 
+    "_id" : "Computer Systems Analyst IV", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Cost Accountant", 
+    "uniqueCount" : 78.0
+}
+{ 
+    "_id" : "Data Coordiator", 
+    "uniqueCount" : 94.0
+}
+{ 
+    "_id" : "Database Administrator I", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Database Administrator II", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Database Administrator III", 
+    "uniqueCount" : 15.0
+}
+{ 
+    "_id" : "Database Administrator IV", 
+    "uniqueCount" : 29.0
+}
+{ 
+    "_id" : "Dental Hygienist", 
+    "uniqueCount" : 100.0
+}
+{ 
+    "_id" : "Design Engineer", 
+    "uniqueCount" : 80.0
+}
+{ 
+    "_id" : "Desktop Support Technician", 
+    "uniqueCount" : 103.0
+}
+{ 
+    "_id" : "Developer I", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Developer II", 
+    "uniqueCount" : 23.0
+}
+{ 
+    "_id" : "Developer III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Developer IV", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Director of Sales", 
+    "uniqueCount" : 81.0
+}
+{ 
+    "_id" : "Editor", 
+    "uniqueCount" : 86.0
+}
+{ 
+    "_id" : "Electrical Engineer", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Engineer I", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Engineer II", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Engineer III", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Engineer IV", 
+    "uniqueCount" : 31.0
+}
+{ 
+    "_id" : "Environmental Specialist", 
+    "uniqueCount" : 73.0
+}
+{ 
+    "_id" : "Environmental Tech", 
+    "uniqueCount" : 89.0
+}
+{ 
+    "_id" : "Executive Secretary", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Financial Advisor", 
+    "uniqueCount" : 75.0
+}
+{ 
+    "_id" : "Financial Analyst", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Food Chemist", 
+    "uniqueCount" : 81.0
+}
+{ 
+    "_id" : "GIS Technical Architect", 
+    "uniqueCount" : 100.0
+}
+{ 
+    "_id" : "General Manager", 
+    "uniqueCount" : 79.0
+}
+{ 
+    "_id" : "Geological Engineer", 
+    "uniqueCount" : 93.0
+}
+{ 
+    "_id" : "Geologist I", 
+    "uniqueCount" : 26.0
+}
+{ 
+    "_id" : "Geologist II", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Geologist III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Geologist IV", 
+    "uniqueCount" : 23.0
+}
+{ 
+    "_id" : "Graphic Designer", 
+    "uniqueCount" : 80.0
+}
+{ 
+    "_id" : "Health Coach I", 
+    "uniqueCount" : 27.0
+}
+{ 
+    "_id" : "Health Coach II", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Health Coach III", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Health Coach IV", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Help Desk Operator", 
+    "uniqueCount" : 94.0
+}
+{ 
+    "_id" : "Help Desk Technician", 
+    "uniqueCount" : 92.0
+}
+{ 
+    "_id" : "Human Resources Assistant I", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Human Resources Assistant II", 
+    "uniqueCount" : 30.0
+}
+{ 
+    "_id" : "Human Resources Assistant III", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Human Resources Assistant IV", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Human Resources Manager", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Information Systems Manager", 
+    "uniqueCount" : 96.0
+}
+{ 
+    "_id" : "Internal Auditor", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Junior Executive", 
+    "uniqueCount" : 88.0
+}
+{ 
+    "_id" : "Legal Assistant", 
+    "uniqueCount" : 80.0
+}
+{ 
+    "_id" : "Librarian", 
+    "uniqueCount" : 76.0
+}
+{ 
+    "_id" : "Marketing Assistant", 
+    "uniqueCount" : 86.0
+}
+{ 
+    "_id" : "Marketing Manager", 
+    "uniqueCount" : 89.0
+}
+{ 
+    "_id" : "Mechanical Systems Engineer", 
+    "uniqueCount" : 80.0
+}
+{ 
+    "_id" : "Media Manager I", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Media Manager II", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Media Manager III", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Media Manager IV", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Nuclear Power Engineer", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Nurse", 
+    "uniqueCount" : 100.0
+}
+{ 
+    "_id" : "Nurse Practicioner", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Occupational Therapist", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Office Assistant I", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Office Assistant II", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Office Assistant III", 
+    "uniqueCount" : 9.0
+}
+{ 
+    "_id" : "Office Assistant IV", 
+    "uniqueCount" : 16.0
+}
+{ 
+    "_id" : "Operator", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Paralegal", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Payment Adjustment Coordinator", 
+    "uniqueCount" : 95.0
+}
+{ 
+    "_id" : "Pharmacist", 
+    "uniqueCount" : 81.0
+}
+{ 
+    "_id" : "Physical Therapy Assistant", 
+    "uniqueCount" : 92.0
+}
+{ 
+    "_id" : "Product Engineer", 
+    "uniqueCount" : 94.0
+}
+{ 
+    "_id" : "Professor", 
+    "uniqueCount" : 118.0
+}
+{ 
+    "_id" : "Programmer", 
+    "uniqueCount" : 1.0
+}
+{ 
+    "_id" : "Programmer Analyst I", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Programmer Analyst II", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Programmer Analyst III", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Programmer Analyst IV", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Programmer I", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Programmer II", 
+    "uniqueCount" : 15.0
+}
+{ 
+    "_id" : "Programmer III", 
+    "uniqueCount" : 29.0
+}
+{ 
+    "_id" : "Programmer IV", 
+    "uniqueCount" : 28.0
+}
+{ 
+    "_id" : "Project Manager", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Quality Control Specialist", 
+    "uniqueCount" : 76.0
+}
+{ 
+    "_id" : "Quality Engineer", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Recruiter", 
+    "uniqueCount" : 86.0
+}
+{ 
+    "_id" : "Recruiting Manager", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Registered Nurse", 
+    "uniqueCount" : 74.0
+}
+{ 
+    "_id" : "Research Assistant I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Research Assistant II", 
+    "uniqueCount" : 17.0
+}
+{ 
+    "_id" : "Research Assistant III", 
+    "uniqueCount" : 14.0
+}
+{ 
+    "_id" : "Research Assistant IV", 
+    "uniqueCount" : 21.0
+}
+{ 
+    "_id" : "Research Associate", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Research Nurse", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Safety Technician I", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Safety Technician II", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Safety Technician III", 
+    "uniqueCount" : 23.0
+}
+{ 
+    "_id" : "Safety Technician IV", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Sales Associate", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Sales Representative", 
+    "uniqueCount" : 94.0
+}
+{ 
+    "_id" : "Senior Cost Accountant", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Senior Developer", 
+    "uniqueCount" : 87.0
+}
+{ 
+    "_id" : "Senior Editor", 
+    "uniqueCount" : 83.0
+}
+{ 
+    "_id" : "Senior Financial Analyst", 
+    "uniqueCount" : 77.0
+}
+{ 
+    "_id" : "Senior Quality Engineer", 
+    "uniqueCount" : 70.0
+}
+{ 
+    "_id" : "Senior Sales Associate", 
+    "uniqueCount" : 84.0
+}
+{ 
+    "_id" : "Social Worker", 
+    "uniqueCount" : 88.0
+}
+{ 
+    "_id" : "Software Consultant", 
+    "uniqueCount" : 96.0
+}
+{ 
+    "_id" : "Software Engineer I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Software Engineer II", 
+    "uniqueCount" : 29.0
+}
+{ 
+    "_id" : "Software Engineer III", 
+    "uniqueCount" : 27.0
+}
+{ 
+    "_id" : "Software Engineer IV", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Software Test Engineer I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Software Test Engineer II", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Software Test Engineer III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Software Test Engineer IV", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Speech Pathologist", 
+    "uniqueCount" : 97.0
+}
+{ 
+    "_id" : "Staff Accountant I", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Staff Accountant II", 
+    "uniqueCount" : 32.0
+}
+{ 
+    "_id" : "Staff Accountant III", 
+    "uniqueCount" : 23.0
+}
+{ 
+    "_id" : "Staff Accountant IV", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Staff Scientist", 
+    "uniqueCount" : 90.0
+}
+{ 
+    "_id" : "Statistician I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Statistician II", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Statistician III", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Statistician IV", 
+    "uniqueCount" : 23.0
+}
+{ 
+    "_id" : "Structural Analysis Engineer", 
+    "uniqueCount" : 81.0
+}
+{ 
+    "_id" : "Structural Engineer", 
+    "uniqueCount" : 85.0
+}
+{ 
+    "_id" : "Systems Administrator I", 
+    "uniqueCount" : 22.0
+}
+{ 
+    "_id" : "Systems Administrator II", 
+    "uniqueCount" : 24.0
+}
+{ 
+    "_id" : "Systems Administrator III", 
+    "uniqueCount" : 26.0
+}
+{ 
+    "_id" : "Systems Administrator IV", 
+    "uniqueCount" : 25.0
+}
+{ 
+    "_id" : "Tax Accountant", 
+    "uniqueCount" : 76.0
+}
+{ 
+    "_id" : "Teacher", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "Technical Writer", 
+    "uniqueCount" : 83.0
+}
+{ 
+    "_id" : "VP Accounting", 
+    "uniqueCount" : 80.0
+}
+{ 
+    "_id" : "VP Marketing", 
+    "uniqueCount" : 79.0
+}
+{ 
+    "_id" : "VP Product Management", 
+    "uniqueCount" : 91.0
+}
+{ 
+    "_id" : "VP Quality Control", 
+    "uniqueCount" : 83.0
+}
+{ 
+    "_id" : "VP Sales", 
+    "uniqueCount" : 86.0
+}
+{ 
+    "_id" : "Web Designer I", 
+    "uniqueCount" : 28.0
+}
+{ 
+    "_id" : "Web Designer II", 
+    "uniqueCount" : 17.0
+}
+{ 
+    "_id" : "Web Designer III", 
+    "uniqueCount" : 17.0
+}
+{ 
+    "_id" : "Web Designer IV", 
+    "uniqueCount" : 14.0
+}
+{ 
+    "_id" : "Web Developer I", 
+    "uniqueCount" : 20.0
+}
+{ 
+    "_id" : "Web Developer II", 
+    "uniqueCount" : 19.0
+}
+{ 
+    "_id" : "Web Developer III", 
+    "uniqueCount" : 18.0
+}
+{ 
+    "_id" : "Web Developer IV", 
+    "uniqueCount" : 18.0
+}

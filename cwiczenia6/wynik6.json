@@ -1,0 +1,3566 @@
+﻿[
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1754,
+"start": 20,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 215,
+"distance": 1739,
+"price": 1810,
+"dateOfFlight": "11/30/2015 04:19:34",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    },
+    "totalPrice": 1810
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1930,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 575,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2874.2
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1930,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 575,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2012.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1930,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 575,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2491
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1829,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 620,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3037
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1789,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 622,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3039
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1831,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 465.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2882.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1830,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 744.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3161.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1788,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 746.4,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3163.4
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1976,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2417,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1787,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 466.5,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2883.5
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1829,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 620,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3520.4
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1789,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 622,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3522.4
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1831,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 465.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3365.4
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1830,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 744.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3644.4
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1788,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 746.4,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3646.8
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1978,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 2900.4,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1787,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 466.5,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 3366.9
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1829,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 620,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2432.75
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1789,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 622,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2434.75
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1831,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 465.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2277.75
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1830,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 98,
+"distance": 588,
+"price": 744.0,
+"dateOfFlight": "11/29/2015 22:10:45",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2556.75
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1788,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 746.4,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2559.15
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1977,
+"start": 20,
+"end": 22,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 270,
+"distance": 2327,
+"price": 1812.75,
+"dateOfFlight": "11/29/2015 06:29:14",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 22,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAD"
+            }
+          },
+          "relationship": {
+"identity": 1787,
+"start": 22,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 102,
+"distance": 588,
+"price": 466.5,
+"dateOfFlight": "11/29/2015 22:53:04",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2279.25
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1943,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 578,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2877.2
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1943,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 578,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2015.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1943,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 578,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2494
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1945,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 693.6,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2992.7999999999997
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1945,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 693.6,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2130.6
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1945,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 693.6,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2609.6
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1929,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 431.25,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2730.45
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1929,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 431.25,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 1868.25
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1929,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 431.25,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2347.25
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1928,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 690.0,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2989.2
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1928,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 690.0,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2127.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1928,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 77,
+"distance": 550,
+"price": 690.0,
+"dateOfFlight": "11/30/2015 05:05:26",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2606.0
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1944,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 433.5,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1785,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 2299.2,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2732.7
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1944,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 433.5,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1786,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1437.0,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 1870.5
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1944,
+"start": 20,
+"end": 21,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 84,
+"distance": 550,
+"price": 433.5,
+"dateOfFlight": "11/30/2015 15:13:59",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 21,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SFO"
+            }
+          },
+          "relationship": {
+"identity": 1784,
+"start": 21,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 211,
+"distance": 1846,
+"price": 1916,
+"dateOfFlight": "11/29/2015 12:58:23",
+"airline": "19977",
+"class": "business"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    },
+    "totalPrice": 2349.5
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1756,
+"start": 20,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 215,
+"distance": 1739,
+"price": 1357.5,
+"dateOfFlight": "11/30/2015 04:19:34",
+"airline": "19977",
+"class": "economy"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    },
+    "totalPrice": 1357.5
+  },
+  {
+    "path": {
+"start": {
+"identity": 20,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "PDX"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ORD"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "PDX"
+            }
+          },
+          "relationship": {
+"identity": 1755,
+"start": 20,
+"end": 17,
+"type": "CITY_CONNECTION",
+"properties": {
+"duration": 215,
+"distance": 1739,
+"price": 2172.0,
+"dateOfFlight": "11/30/2015 04:19:34",
+"airline": "19977",
+"class": "firstClass"
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    },
+    "totalPrice": 2172.0
+  }
+]

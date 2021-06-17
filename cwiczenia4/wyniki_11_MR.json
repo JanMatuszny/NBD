@@ -1,0 +1,26 @@
+{ 
+    "results" : [
+        {
+            "_id" : "Female", 
+            "value" : {
+                "avgWeight" : 70.11331573604069, 
+                "avgHeight" : 166.81260913705597
+            }
+        }, 
+        {
+            "_id" : "Male", 
+            "value" : {
+                "avgWeight" : 70.0158207147184, 
+                "avgHeight" : 166.73858469614396
+            }
+        }
+    ], 
+    "timeMillis" : 155.0, 
+    "counts" : {
+        "input" : 9878.0, 
+        "emit" : 9878.0, 
+        "reduce" : 198.0, 
+        "output" : 2.0
+    }, 
+    "ok" : 1.0
+}
