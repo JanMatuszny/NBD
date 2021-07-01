@@ -1,0 +1,33 @@
+1. 
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Artur", "lastName": "Abacki", "height": 174, "weight": 75}' http://localhost:8098/buckets/s23425/keys/Abacki
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Baltazar", "lastName": "Babacki", "height": 187, "weight": 88}' http://localhost:8098/buckets/s23425/keys/Babacki
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Cecylia", "lastName": "Cabacki", "height": 158, "weight": 65}' http://localhost:8098/buckets/s23425/keys/Cabacki
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Dorota", "lastName": "Dabacki", "height": 164, "weight": 54}' http://localhost:8098/buckets/s23425/keys/Dabacki
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Eliza", "lastName": "Ebacka", "height": 168, "weight": 58}' http://localhost:8098/buckets/s23425/keys/Ebacka
+
+2. 
+curl -i http://localhost:8098/buckets/s23425/keys/Abacki
+
+3. 
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Artur", "lastName": "Abacki", "height": 174, "weight": 75, "job": "Programmer"}' http://localhost:8098/buckets/s23425/keys/Abacki
+
+4.
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Baltazar", "lastName": "Babacki", "height": 187}' http://localhost:8098/buckets/s23425/keys/Babacki
+
+5.
+curl -i -XPUT -H 'Content-Type:application/json' -d '{"firstName": "Cecylia", "lastName": "Cabacki", "height": 158, "weight": 72}' http://localhost:8098/buckets/s23425/keys/Cabacki
+
+6.
+curl -i -XDELETE http://localhost:8098/buckets/s23425/keys/Dabacki
+
+7.
+curl -i http://localhost:8098/buckets/s23425/keys/Dabacki
+
+8.
+curl -i -XPOST -H 'Content-Type:application/json' -d '{"firstName": "Jan"}' http://localhost:8098/buckets/s23425/keys/Jan
+
+9.
+curl -i http://localhost:8098/buckets/s23425/keys/Jan
+
+10.
+curl -i -XDELETE http://localhost:8098/buckets/s23425/keys/Jan
